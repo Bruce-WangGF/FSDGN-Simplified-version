@@ -12,4 +12,4 @@ This paper can reappear absolutely, Here is the result of my run in NH dataset,
 | NH |  19.57 | 0.759 |
 
 considering the difference of training dataset and testing dataset, the difference between it and paper, it's acceptable, excellent job.
-![Uploading WGF_5.png…]()
+![Sample_image](Pic/WGF_5.png)

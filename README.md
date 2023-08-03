@@ -11,5 +11,8 @@ This paper can reappear absolutely, Here is the result of my run in NH dataset,
 |----------|:-------------:|------:|
 | NH |  19.57 | 0.759 |
 
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `NOTE:The corresponding enhanced methods are not coded in the dataloader, you need add it if you need.` 
+
 considering the difference of training dataset and testing dataset, the difference between it and paper, it's acceptable, excellent job.
+
 ![Sample_image](Pic/WGF_5.png)
